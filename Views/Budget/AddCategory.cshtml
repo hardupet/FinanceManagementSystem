@@ -1,0 +1,25 @@
+﻿@model FinanceManagementSystem.Models.Category
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-lg-6 mx-auto">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="mb-4">Add Category</h2>
+                    @if (TempData["error"] != null)
+                    {
+                        <div class="alert alert-danger mt-3">@TempData["error"]</div>
+                    }
+                    <form method="post" asp-action="AddCategory">
+                        <div class="form-group">
+                            <label for="CategoryName">Enter New Category Name:</label>
+                            <input class="form-control" type="text" name="CategoryName">
+                        </div>
+                        <br>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

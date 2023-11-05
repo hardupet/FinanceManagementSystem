@@ -1,0 +1,46 @@
+﻿@model FinanceManagementSystem.Models.Budget
+
+<div class="text-end mt-3">
+    <a class="btn btn-primary" asp-area="" asp-controller="Budget" asp-action="AddCategory">Add a New Category</a>
+</div>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <h4>Edit Budget</h4>
+            <div class="card">
+                <div class="card-body">
+                    @if (TempData["error"] != null)
+                    {
+                        <div class="alert alert-danger mt-3">@TempData["error"]</div>
+                    }
+                    <form asp-action="EditBudget" asp-controller="Budget" method="post">
+                        <input type="hidden" asp-for="BudgetID" />
+
+                        <div class="form-group">
+                            <label for="CategoryName">Category Name:</label>
+                            <select asp-for="CategoryName" asp-items="(SelectList)ViewBag.Categories" class="form-control">
+                                <option value="">-- Select Category --</option>
+                            </select>
+                            <span asp-validation-for="CategoryName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="Amount">Amount:</label>
+                            <input asp-for="Amount" type="text" class="form-control" value="@Model.Amount.ToString("0.00")" />
+                            <span asp-validation-for="Amount" class="text-danger"></span>
+                        </div>
+
+                        <input type="hidden" asp-for="UserID" />
+                        <input type="hidden" asp-for="CategoryID" />
+                        <input type="hidden" asp-for="TotalTransactionsAmount" />
+                        <input type="hidden" asp-for="CreatedAt" />
+                        <input type="hidden" asp-for="UpdatedAt" />
+                        <input type="hidden" asp-for="Progress" />
+                        <br />
+                        <input type="submit" value="Save Changes" class="btn btn-primary" />
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

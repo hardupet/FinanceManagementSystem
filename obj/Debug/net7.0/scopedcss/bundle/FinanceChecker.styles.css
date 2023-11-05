@@ -1,0 +1,129 @@
+/* _content/FinanceChecker/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+@media (max-width: 767px) {
+    /* Styles for screens smaller than 768px */
+
+    body[b-x0ndlu3n2e] {
+        font-size: 14px; 
+    }
+
+    .navbar-toggler-icon[b-x0ndlu3n2e] {
+        
+    }
+
+    .nav-link[b-x0ndlu3n2e] {
+        padding: 5px 10px; 
+    }
+
+}
+
+
+.custom-header[b-x0ndlu3n2e] {
+    background-color: #007bff;
+    color: white;
+}
+
+.navbar-container[b-x0ndlu3n2e] {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+    .navbar-container > .navbar:first-child[b-x0ndlu3n2e] {
+        margin-bottom: 0;
+        flex: 1 1 auto;
+    }
+
+    .navbar-container > .navbar:last-child[b-x0ndlu3n2e] {
+        margin-top: 0;
+        flex: 1 1 auto;
+    }
+
+a.navbar-brand[b-x0ndlu3n2e] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a[b-x0ndlu3n2e] {
+    color: #0077cc;
+}
+
+.btn-primary[b-x0ndlu3n2e] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-x0ndlu3n2e], .nav-pills .show > .nav-link[b-x0ndlu3n2e] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.nav-pills .nav-link[b-x0ndlu3n2e] {
+    color: #0077cc; /* Non-active tab text color */
+    background-color: #f8f9fa; /* Non-active tab background color */
+    border-color: #dee2e6; /* Non-active tab border color */
+    border-radius: 5px; /* Rounded corners for non-active tabs */
+}
+
+    .nav-pills .nav-link:hover[b-x0ndlu3n2e] {
+        background-color: #f0f0f0; /* Hover color for non-active tabs */
+    }
+
+.border-top[b-x0ndlu3n2e] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-x0ndlu3n2e] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-x0ndlu3n2e] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-x0ndlu3n2e] {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/*.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}*/
+
+.footer[b-x0ndlu3n2e] {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000; 
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.navbar-lightblue[b-x0ndlu3n2e] {
+    background-color: #87CEFA;
+}
+
+.navbar-collapse[b-x0ndlu3n2e] {
+    justify-content: flex-start; 
+    padding-left: 15px; 
+}
+
+.nav-pills[b-x0ndlu3n2e] {
+    width: 100%;
+}
+
+.nav-link[b-x0ndlu3n2e] {
+    text-align: center; 
+}

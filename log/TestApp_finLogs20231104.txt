@@ -1,0 +1,490 @@
+2023-11-04 13:14:05.877 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/AccessDenied.cshtml'.
+2023-11-04 13:14:05.980 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmail.cshtml'.
+2023-11-04 13:14:05.980 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml'.
+2023-11-04 13:14:05.980 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ExternalLogin.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPassword.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Lockout.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Login.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWith2fa.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Logout.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Email.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml'.
+2023-11-04 13:14:05.981 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Index.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_Layout.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewStart.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Register.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPassword.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_StatusMessage.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_ViewImports.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Error.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewImports.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewStart.cshtml'.
+2023-11-04 13:14:05.982 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Account/AgreeRetrieveData.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Account/CreateAccount.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Account/DeleteAccount.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Account/EditAccount.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Account/Index.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Alert/Index.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Alert/Notification.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Bills/CreateBill.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Bills/DeleteBill.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Bills/EditBill.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Bills/Index.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Budget/AddCategory.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Budget/CreateBudget.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Budget/EditBudget.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Budget/Index.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Dashboard/Index.cshtml'.
+2023-11-04 13:14:05.983 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Expense/Index.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Help/Contact.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Help/FAQs.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Help/Index.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Help/ThankYou.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/ForgotPassword.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Index.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/PasswordResetError.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/PasswordResetSuccess.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/Privacy.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Home/ResetPassword.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Payment/Index.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Savings/CreateSavings.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Savings/EditSavings.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Savings/Index.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_LoginPartial.cshtml'.
+2023-11-04 13:14:05.984 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Notification.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Transaction/CreateTransaction.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Transaction/DeleteTransaction.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Transaction/EditTransaction.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Transaction/Transaction.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/AccessDenied.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmail.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ExternalLogin.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPassword.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Lockout.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Login.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWith2fa.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Logout.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Email.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml'.
+2023-11-04 13:14:05.985 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/Index.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_Layout.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Manage/_ViewStart.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/Register.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPassword.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_StatusMessage.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Account/_ViewImports.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/Error.cshtml'.
+2023-11-04 13:14:05.986 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_Layout.cshtml'.
+2023-11-04 13:14:05.987 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml'.
+2023-11-04 13:14:05.987 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewImports.cshtml'.
+2023-11-04 13:14:05.987 +00:00 [DBG] Initializing Razor view compiler with compiled view: '/Areas/Identity/Pages/_ViewStart.cshtml'.
+2023-11-04 13:14:06.020 +00:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-04 13:14:06.107 +00:00 [INF] User profile is available. Using 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-04 13:14:06.633 +00:00 [DBG] Hosting starting
+2023-11-04 13:14:06.649 +00:00 [DBG] Reading data from file 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys\key-3ca07e85-9e2c-4f01-bd0a-bb463a4d984d.xml'.
+2023-11-04 13:14:06.735 +00:00 [DBG] Reading data from file 'C:\Users\User\AppData\Local\ASP.NET\DataProtection-Keys\key-93428d16-5790-49ab-9fa3-234aa7b846cb.xml'.
+2023-11-04 13:14:06.787 +00:00 [DBG] Found key {3ca07e85-9e2c-4f01-bd0a-bb463a4d984d}.
+2023-11-04 13:14:06.797 +00:00 [DBG] Found key {93428d16-5790-49ab-9fa3-234aa7b846cb}.
+2023-11-04 13:14:06.809 +00:00 [DBG] Considering key {93428d16-5790-49ab-9fa3-234aa7b846cb} with expiration date 2024-01-24 12:03:31Z as default key.
+2023-11-04 13:14:06.816 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-04 13:14:06.820 +00:00 [DBG] Decrypting secret element using Windows DPAPI.
+2023-11-04 13:14:06.823 +00:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-04 13:14:06.828 +00:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2023-11-04 13:14:06.836 +00:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2023-11-04 13:14:06.843 +00:00 [DBG] Using key {93428d16-5790-49ab-9fa3-234aa7b846cb} as the default key.
+2023-11-04 13:14:06.845 +00:00 [DBG] Key ring with default key {93428d16-5790-49ab-9fa3-234aa7b846cb} was loaded during application startup.
+2023-11-04 13:14:07.234 +00:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2023-11-04 13:14:07.442 +00:00 [INF] Now listening on: https://localhost:7263
+2023-11-04 13:14:07.443 +00:00 [INF] Now listening on: http://localhost:5203
+2023-11-04 13:14:07.443 +00:00 [DBG] Loaded hosting startup assembly FinanceManagementSystem
+2023-11-04 13:14:07.443 +00:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2023-11-04 13:14:07.443 +00:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2023-11-04 13:14:07.444 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-04 13:14:07.444 +00:00 [INF] Hosting environment: Development
+2023-11-04 13:14:07.444 +00:00 [INF] Content root path: C:\Users\User\source\repos\FinanceManagementSystem
+2023-11-04 13:14:07.444 +00:00 [DBG] Hosting started
+2023-11-04 13:14:07.645 +00:00 [DBG] Connection id "0HMUT6VMK1JMT" received FIN.
+2023-11-04 13:14:07.645 +00:00 [DBG] Connection id "0HMUT6VMK1JMS" received FIN.
+2023-11-04 13:14:07.658 +00:00 [DBG] Connection id "0HMUT6VMK1JMS" accepted.
+2023-11-04 13:14:07.658 +00:00 [DBG] Connection id "0HMUT6VMK1JMT" accepted.
+2023-11-04 13:14:07.660 +00:00 [DBG] Connection id "0HMUT6VMK1JMS" started.
+2023-11-04 13:14:07.660 +00:00 [DBG] Connection id "0HMUT6VMK1JMT" started.
+2023-11-04 13:14:07.734 +00:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-04 13:14:07.734 +00:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-04 13:14:07.848 +00:00 [DBG] Connection id "0HMUT6VMK1JMS" stopped.
+2023-11-04 13:14:07.848 +00:00 [DBG] Connection id "0HMUT6VMK1JMT" stopped.
+2023-11-04 13:14:07.853 +00:00 [DBG] Connection id "0HMUT6VMK1JMS" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-04 13:14:07.853 +00:00 [DBG] Connection id "0HMUT6VMK1JMT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-04 13:14:09.444 +00:00 [DBG] Connection id "0HMUT6VMK1JMU" accepted.
+2023-11-04 13:14:09.445 +00:00 [DBG] Connection id "0HMUT6VMK1JMU" started.
+2023-11-04 13:14:10.007 +00:00 [DBG] Connection id "0HMUT6VMK1JMV" accepted.
+2023-11-04 13:14:10.009 +00:00 [DBG] Connection id "0HMUT6VMK1JMV" started.
+2023-11-04 13:14:10.011 +00:00 [DBG] Connection id "0HMUT6VMK1JMU" received FIN.
+2023-11-04 13:14:10.022 +00:00 [DBG] Connection id "0HMUT6VMK1JMV" received FIN.
+2023-11-04 13:14:10.043 +00:00 [DBG] Connection id "0HMUT6VMK1JN0" accepted.
+2023-11-04 13:14:10.073 +00:00 [DBG] Connection id "0HMUT6VMK1JN0" started.
+2023-11-04 13:14:10.087 +00:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-04 13:14:10.087 +00:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-04 13:14:10.089 +00:00 [DBG] Connection id "0HMUT6VMK1JMU" stopped.
+2023-11-04 13:14:10.090 +00:00 [DBG] Connection id "0HMUT6VMK1JMV" stopped.
+2023-11-04 13:14:10.096 +00:00 [DBG] Connection id "0HMUT6VMK1JMV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-04 13:14:10.097 +00:00 [DBG] Connection id "0HMUT6VMK1JMU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-04 13:14:10.115 +00:00 [DBG] Connection 0HMUT6VMK1JN0 established using the following protocol: "Tls12"
+2023-11-04 13:14:10.611 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/ - -
+2023-11-04 13:14:10.708 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-11-04 13:14:10.714 +00:00 [DBG] The request path / does not match a supported file type
+2023-11-04 13:14:10.819 +00:00 [DBG] 1 candidate(s) found for the request path '/'
+2023-11-04 13:14:10.825 +00:00 [DBG] Endpoint 'FinanceManagementSystem.Controllers.HomeController.Index (FinanceManagementSystem)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/'
+2023-11-04 13:14:10.826 +00:00 [DBG] Request matched endpoint 'FinanceManagementSystem.Controllers.HomeController.Index (FinanceManagementSystem)'
+2023-11-04 13:14:11.279 +00:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2023-11-04 13:14:13.356 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserRole<string>' as the properties are already covered by the index {'UserId', 'RoleId'}.
+2023-11-04 13:14:13.357 +00:00 [DBG] The index {'UserId'} was not created on entity type 'IdentityUserToken<string>' as the properties are already covered by the index {'UserId', 'LoginProvider', 'Name'}.
+2023-11-04 13:14:13.875 +00:00 [DBG] The property 'IdentityUser.Discriminator' was created in shadow state because there are no eligible CLR members with a matching name.
+2023-11-04 13:14:13.958 +00:00 [WRN] No store type was specified for the decimal property 'Balance' on entity type 'Account'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.958 +00:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'Bill'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.958 +00:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'Budget'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.958 +00:00 [WRN] No store type was specified for the decimal property 'Progress' on entity type 'Budget'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.958 +00:00 [WRN] No store type was specified for the decimal property 'TotalTransactionsAmount' on entity type 'Budget'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.958 +00:00 [WRN] No store type was specified for the decimal property 'CurrentSavings' on entity type 'Savings'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.958 +00:00 [WRN] No store type was specified for the decimal property 'Goal' on entity type 'Savings'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.958 +00:00 [WRN] No store type was specified for the decimal property 'Progress' on entity type 'Savings'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.959 +00:00 [WRN] No store type was specified for the decimal property 'Amount' on entity type 'Transaction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.959 +00:00 [WRN] No store type was specified for the decimal property 'HighBalanceThreshold' on entity type 'UserAlertSettings'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:13.959 +00:00 [WRN] No store type was specified for the decimal property 'LowBalanceThreshold' on entity type 'UserAlertSettings'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-11-04 13:14:14.542 +00:00 [DBG] Entity Framework Core 7.0.10 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:7.0.10' with options: None
+2023-11-04 13:14:14.972 +00:00 [DBG] Compiling query expression: 
+'DbSet<IdentityUser>()
+    .FirstOrDefault(e => EF.Property<string>(e, "Id") == __p_0)'
+2023-11-04 13:14:15.555 +00:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleOrDefaultAsync<IdentityUser>(
+    asyncEnumerable: new SingleQueryingEnumerable<IdentityUser>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.QueryExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: IdentityUser.Id (string) Required PK AfterSave:Throw, 0], [Property: IdentityUser.AccessFailedCount (int) Required, 1], [Property: IdentityUser.ConcurrencyStamp (string) Concurrency, 2], [Property: IdentityUser.Discriminator (no field, string) Shadow Required AfterSave:Throw, 3], [Property: IdentityUser.Email (string) MaxLength(256), 4], [Property: IdentityUser.EmailConfirmed (bool) Required, 5], [Property: IdentityUser.LockoutEnabled (bool) Required, 6], [Property: IdentityUser.LockoutEnd (DateTimeOffset?), 7], [Property: IdentityUser.NormalizedEmail (string) Index MaxLength(256), 8], [Property: IdentityUser.NormalizedUserName (string) Index MaxLength(256), 9], [Property: IdentityUser.PasswordHash (string), 10], [Property: IdentityUser.PhoneNumber (string), 11], [Property: IdentityUser.PhoneNumberConfirmed (bool) Required, 12], [Property: IdentityUser.SecurityStamp (string), 13], [Property: IdentityUser.TwoFactorEnabled (bool) Required, 14], [Property: IdentityUser.UserName (string) MaxLength(256), 15], [Property: ApplicationUser.City (string), 16], [Property: ApplicationUser.Country (string), 17], [Property: ApplicationUser.CreatedAt (DateTime) Required, 18], [Property: ApplicationUser.DateOfBirth (DateTime) Required, 19], [Property: ApplicationUser.FirstName (string) Required, 20], [Property: ApplicationUser.LastName (string) Required, 21], [Property: ApplicationUser.PostalCode (string), 22], [Property: ApplicationUser.SecurityAnswer (string), 23], [Property: ApplicationUser.SecurityQuestion (string), 24], [Property: ApplicationUser.StreetAddress (string), 25], [Property: ApplicationUser.UpdatedAt (DateTime) Required, 26] }
+            SELECT TOP(1) a.Id, a.AccessFailedCount, a.ConcurrencyStamp, a.Discriminator, a.Email, a.EmailConfirmed, a.LockoutEnabled, a.LockoutEnd, a.NormalizedEmail, a.NormalizedUserName, a.PasswordHash, a.PhoneNumber, a.PhoneNumberConfirmed, a.SecurityStamp, a.TwoFactorEnabled, a.UserName, a.City, a.Country, a.CreatedAt, a.DateOfBirth, a.FirstName, a.LastName, a.PostalCode, a.SecurityAnswer, a.SecurityQuestion, a.StreetAddress, a.UpdatedAt
+            FROM AspNetUsers AS a
+            WHERE a.Id == @__p_0), 
+        null, 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, IdentityUser>, 
+        FinanceManagementSystem.Data.ApplicationDbContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2023-11-04 13:14:15.655 +00:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2023-11-04 13:14:15.659 +00:00 [DBG] Creating DbConnection.
+2023-11-04 13:14:15.740 +00:00 [DBG] Created DbConnection. (69ms).
+2023-11-04 13:14:15.765 +00:00 [DBG] Created DbCommand for 'ExecuteReader' (108ms).
+2023-11-04 13:14:15.805 +00:00 [DBG] Initialized DbCommand for 'ExecuteReader' (156ms).
+2023-11-04 13:14:15.814 +00:00 [DBG] Opening connection to database 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:16.685 +00:00 [DBG] Opened connection to database 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:16.723 +00:00 [DBG] Executing DbCommand [Parameters=[@__p_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[City], [a].[Country], [a].[CreatedAt], [a].[DateOfBirth], [a].[FirstName], [a].[LastName], [a].[PostalCode], [a].[SecurityAnswer], [a].[SecurityQuestion], [a].[StreetAddress], [a].[UpdatedAt]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__p_0
+2023-11-04 13:14:16.960 +00:00 [INF] Executed DbCommand (254ms) [Parameters=[@__p_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Discriminator], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName], [a].[City], [a].[Country], [a].[CreatedAt], [a].[DateOfBirth], [a].[FirstName], [a].[LastName], [a].[PostalCode], [a].[SecurityAnswer], [a].[SecurityQuestion], [a].[StreetAddress], [a].[UpdatedAt]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[Id] = @__p_0
+2023-11-04 13:14:17.140 +00:00 [DBG] Context 'ApplicationDbContext' started tracking 'ApplicationUser' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2023-11-04 13:14:17.334 +00:00 [DBG] Closing data reader to 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:17.358 +00:00 [DBG] A data reader for 'FinanceManagementSystem' on server '.' is being disposed after spending 382ms reading results.
+2023-11-04 13:14:17.368 +00:00 [DBG] Closing connection to database 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:17.385 +00:00 [DBG] Closed connection to database 'FinanceManagementSystem' on server '.' (16ms).
+2023-11-04 13:14:17.430 +00:00 [DBG] Compiling query expression: 
+'DbSet<IdentityUserClaim<string>>()
+    .Where(uc => uc.UserId.Equals(__user_Id_0))
+    .Select(c => c.ToClaim())'
+2023-11-04 13:14:17.544 +00:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Claim>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Client Projections:
+            0 -> Dictionary<IProperty, int> { [Property: IdentityUserClaim<string>.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: IdentityUserClaim<string>.ClaimType (string), 1], [Property: IdentityUserClaim<string>.ClaimValue (string), 2], [Property: IdentityUserClaim<string>.UserId (string) Required FK Index, 3] }
+        SELECT a.Id, a.ClaimType, a.ClaimValue, a.UserId
+        FROM AspNetUserClaims AS a
+        WHERE a.UserId == @__user_Id_0), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Claim>, 
+    FinanceManagementSystem.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2023-11-04 13:14:17.548 +00:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2023-11-04 13:14:17.548 +00:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2023-11-04 13:14:17.548 +00:00 [DBG] Initialized DbCommand for 'ExecuteReader' (1ms).
+2023-11-04 13:14:17.549 +00:00 [DBG] Opening connection to database 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:17.551 +00:00 [DBG] Opened connection to database 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:17.551 +00:00 [DBG] Executing DbCommand [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2023-11-04 13:14:17.568 +00:00 [INF] Executed DbCommand (16ms) [Parameters=[@__user_Id_0='?' (Size = 450)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2023-11-04 13:14:17.571 +00:00 [DBG] Closing data reader to 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:17.572 +00:00 [DBG] A data reader for 'FinanceManagementSystem' on server '.' is being disposed after spending 3ms reading results.
+2023-11-04 13:14:17.573 +00:00 [DBG] Closing connection to database 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:17.573 +00:00 [DBG] Closed connection to database 'FinanceManagementSystem' on server '.' (0ms).
+2023-11-04 13:14:17.590 +00:00 [DBG] AuthenticationScheme: Identity.Application was successfully authenticated.
+2023-11-04 13:14:17.602 +00:00 [INF] Executing endpoint 'FinanceManagementSystem.Controllers.HomeController.Index (FinanceManagementSystem)'
+2023-11-04 13:14:17.649 +00:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index() on controller FinanceManagementSystem.Controllers.HomeController (FinanceManagementSystem).
+2023-11-04 13:14:17.654 +00:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-11-04 13:14:17.654 +00:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2023-11-04 13:14:17.655 +00:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2023-11-04 13:14:17.655 +00:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-11-04 13:14:17.655 +00:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2023-11-04 13:14:17.668 +00:00 [DBG] Executing controller factory for controller FinanceManagementSystem.Controllers.HomeController (FinanceManagementSystem)
+2023-11-04 13:14:17.673 +00:00 [DBG] Executed controller factory for controller FinanceManagementSystem.Controllers.HomeController (FinanceManagementSystem)
+2023-11-04 13:14:18.290 +00:00 [DBG] View lookup cache miss for view 'Index' in controller 'Home'.
+2023-11-04 13:14:18.323 +00:00 [INF] Executing ViewResult, running view Index.
+2023-11-04 13:14:18.339 +00:00 [DBG] The view path '/Views/Home/Index.cshtml' was found in 48.5461ms.
+2023-11-04 13:14:18.456 +00:00 [DBG] View lookup cache miss for view '_Layout' in controller 'Home'.
+2023-11-04 13:14:18.607 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2023-11-04 13:14:18.628 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-04 13:14:18.630 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2023-11-04 13:14:18.637 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2023-11-04 13:14:18.637 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-04 13:14:18.638 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2023-11-04 13:14:18.639 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Help])
+2023-11-04 13:14:18.640 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Help and 
+2023-11-04 13:14:18.640 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Help
+2023-11-04 13:14:18.646 +00:00 [DBG] View lookup cache miss for view '_LoginPartial' in controller 'Home'.
+2023-11-04 13:14:18.682 +00:00 [DBG] Found the endpoints ["/Account/Manage/Index","Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[Identity],page=[/Account/Manage/Index])
+2023-11-04 13:14:18.683 +00:00 [DBG] Successfully processed template Identity/Account/Manage for /Account/Manage/Index resulting in /Identity/Account/Manage and 
+2023-11-04 13:14:18.683 +00:00 [DBG] Link generation succeeded for endpoints ["/Account/Manage/Index","Route: {controller=Home}/{action=Index}/{id?}"] with result /Identity/Account/Manage
+2023-11-04 13:14:18.695 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2023-11-04 13:14:18.696 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-04 13:14:18.696 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2023-11-04 13:14:18.698 +00:00 [DBG] Found the endpoints ["/Account/Logout","Route: {controller=Home}/{action=Index}/{id?}"] for address (returnUrl=[/],area=[Identity],page=[/Account/Logout])
+2023-11-04 13:14:18.699 +00:00 [DBG] Successfully processed template Identity/Account/Logout for /Account/Logout resulting in /Identity/Account/Logout and ?returnUrl=%2F
+2023-11-04 13:14:18.699 +00:00 [DBG] Link generation succeeded for endpoints ["/Account/Logout","Route: {controller=Home}/{action=Index}/{id?}"] with result /Identity/Account/Logout?returnUrl=%2F
+2023-11-04 13:14:18.706 +00:00 [DBG] An antiforgery cookie token was reused.
+2023-11-04 13:14:18.711 +00:00 [DBG] View lookup cache miss for view '_Notification' in controller 'Home'.
+2023-11-04 13:14:18.722 +00:00 [DBG] The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+2023-11-04 13:14:18.723 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2023-11-04 13:14:18.724 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2023-11-04 13:14:18.724 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2023-11-04 13:14:19.145 +00:00 [INF] Executed ViewResult - view Index executed in 871.0515ms.
+2023-11-04 13:14:19.168 +00:00 [INF] Executed action FinanceManagementSystem.Controllers.HomeController.Index (FinanceManagementSystem) in 1511.5164ms
+2023-11-04 13:14:19.170 +00:00 [INF] Executed endpoint 'FinanceManagementSystem.Controllers.HomeController.Index (FinanceManagementSystem)'
+2023-11-04 13:14:19.255 +00:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2023-11-04 13:14:19.320 +00:00 [DBG] Response markup was updated to include browser refresh script injection.
+2023-11-04 13:14:19.335 +00:00 [DBG] 'ApplicationDbContext' disposed.
+2023-11-04 13:14:19.345 +00:00 [DBG] Disposing connection to database 'FinanceManagementSystem' on server '.'.
+2023-11-04 13:14:19.347 +00:00 [DBG] Disposed connection to database '' on server '' (2ms).
+2023-11-04 13:14:19.350 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/ - - - 200 - text/html;+charset=utf-8 8745.0704ms
+2023-11-04 13:14:19.439 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/lib/bootstrap/dist/css/bootstrap.css - -
+2023-11-04 13:14:19.440 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/FinanceManagementSystem.styles.css?v=5ma4o-__Tjbg7_-VXXkwp0aovfrTQ8XxOK4UW0M43sM - -
+2023-11-04 13:14:19.443 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/css/site.css?v=LeOs9SdOpjTPF7EZ_wgMkQPu6b5l0C8oBYMg7X96jX4 - -
+2023-11-04 13:14:19.443 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/lib/jquery/dist/jquery.min.js - -
+2023-11-04 13:14:19.444 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/css/home.css - -
+2023-11-04 13:14:19.447 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/lib/jquery/dist/jquery_create_account.js - -
+2023-11-04 13:14:19.456 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/lib/jquery/dist/transaction.js - -
+2023-11-04 13:14:19.467 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2023-11-04 13:14:19.511 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/js/site.js?v=SlFeIBqpCcjHTZMNxHJQvKTA9jUK8WF4c7cbl-LwYoE - -
+2023-11-04 13:14:19.526 +00:00 [INF] Sending file. Request path: '/FinanceManagementSystem.styles.css'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\obj\Debug\net7.0\scopedcss\bundle\FinanceManagementSystem.styles.css'
+2023-11-04 13:14:19.526 +00:00 [INF] Sending file. Request path: '/css/home.css'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\css\home.css'
+2023-11-04 13:14:19.526 +00:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\css\site.css'
+2023-11-04 13:14:19.527 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/css/site.css?v=LeOs9SdOpjTPF7EZ_wgMkQPu6b5l0C8oBYMg7X96jX4 - - - 200 367 text/css 83.8383ms
+2023-11-04 13:14:19.527 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/FinanceManagementSystem.styles.css?v=5ma4o-__Tjbg7_-VXXkwp0aovfrTQ8XxOK4UW0M43sM - - - 200 2789 text/css 87.4142ms
+2023-11-04 13:14:19.527 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/css/home.css - - - 200 517 text/css 82.2015ms
+2023-11-04 13:14:19.531 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/_framework/aspnetcore-browser-refresh.js - -
+2023-11-04 13:14:19.538 +00:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\js\site.js'
+2023-11-04 13:14:19.538 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/js/site.js?v=SlFeIBqpCcjHTZMNxHJQvKTA9jUK8WF4c7cbl-LwYoE - - - 200 232 text/javascript 26.9091ms
+2023-11-04 13:14:19.554 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 23.5057ms
+2023-11-04 13:14:19.573 +00:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery_create_account.js'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\lib\jquery\dist\jquery_create_account.js'
+2023-11-04 13:14:19.574 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/lib/jquery/dist/jquery_create_account.js - - - 200 3023 text/javascript 128.4640ms
+2023-11-04 13:14:19.592 +00:00 [INF] Sending file. Request path: '/lib/jquery/dist/transaction.js'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\lib\jquery\dist\transaction.js'
+2023-11-04 13:14:19.593 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/lib/jquery/dist/transaction.js - - - 200 1566 text/javascript 136.5290ms
+2023-11-04 13:14:19.615 +00:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2023-11-04 13:14:19.617 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 200 78474 text/javascript 149.7125ms
+2023-11-04 13:14:19.627 +00:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+2023-11-04 13:14:19.628 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/lib/bootstrap/dist/css/bootstrap.css - - - 200 312828 text/css 188.4534ms
+2023-11-04 13:14:19.657 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/_vs/browserLink - -
+2023-11-04 13:14:19.709 +00:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\lib\jquery\dist\jquery.min.js'
+2023-11-04 13:14:19.709 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/lib/jquery/dist/jquery.min.js - - - 200 89503 text/javascript 265.9732ms
+2023-11-04 13:14:19.762 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/img/background.png - -
+2023-11-04 13:14:19.801 +00:00 [INF] Sending file. Request path: '/img/background.png'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\img\background.png'
+2023-11-04 13:14:19.802 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/img/background.png - - - 200 455596 image/png 39.3875ms
+2023-11-04 13:14:19.803 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 145.9880ms
+2023-11-04 13:14:24.961 +00:00 [DBG] Connection id "0HMUT6VMK1JN0" received FIN.
+2023-11-04 13:14:24.964 +00:00 [DBG] Connection id "0HMUT6VMK1JN0" is closed. The last processed stream ID was 25.
+2023-11-04 13:14:24.965 +00:00 [DBG] Connection id "0HMUT6VMK1JN0" sending FIN because: "The client closed the connection."
+2023-11-04 13:14:24.967 +00:00 [DBG] The connection queue processing loop for 0HMUT6VMK1JN0 completed.
+2023-11-04 13:14:24.970 +00:00 [DBG] Connection id "0HMUT6VMK1JN0" stopped.
+2023-11-04 13:14:51.190 +00:00 [DBG] Connection id "0HMUT6VMK1JN1" accepted.
+2023-11-04 13:14:51.191 +00:00 [DBG] Connection id "0HMUT6VMK1JN1" started.
+2023-11-04 13:14:51.202 +00:00 [DBG] Connection id "0HMUT6VMK1JN1" received FIN.
+2023-11-04 13:14:51.212 +00:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-04 13:14:51.213 +00:00 [DBG] Connection id "0HMUT6VMK1JN1" stopped.
+2023-11-04 13:14:51.213 +00:00 [DBG] Connection id "0HMUT6VMK1JN1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-04 13:14:51.319 +00:00 [DBG] Connection id "0HMUT6VMK1JN2" accepted.
+2023-11-04 13:14:51.320 +00:00 [DBG] Connection id "0HMUT6VMK1JN2" started.
+2023-11-04 13:14:51.327 +00:00 [DBG] Connection id "0HMUT6VMK1JN2" received FIN.
+2023-11-04 13:14:51.333 +00:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-04 13:14:51.342 +00:00 [DBG] Connection id "0HMUT6VMK1JN3" accepted.
+2023-11-04 13:14:51.343 +00:00 [DBG] Connection id "0HMUT6VMK1JN3" started.
+2023-11-04 13:14:51.343 +00:00 [DBG] Connection id "0HMUT6VMK1JN2" stopped.
+2023-11-04 13:14:51.346 +00:00 [DBG] Connection id "0HMUT6VMK1JN2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-04 13:14:51.348 +00:00 [DBG] Connection id "0HMUT6VMK1JN3" received FIN.
+2023-11-04 13:14:51.372 +00:00 [DBG] Connection id "0HMUT6VMK1JN4" accepted.
+2023-11-04 13:14:51.372 +00:00 [DBG] Connection id "0HMUT6VMK1JN4" started.
+2023-11-04 13:14:51.373 +00:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): An unknown error occurred while processing the certificate.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2023-11-04 13:14:51.374 +00:00 [DBG] Connection id "0HMUT6VMK1JN3" stopped.
+2023-11-04 13:14:51.375 +00:00 [DBG] Connection id "0HMUT6VMK1JN3" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-04 13:14:51.380 +00:00 [DBG] Connection 0HMUT6VMK1JN4 established using the following protocol: "Tls12"
+2023-11-04 13:14:51.383 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/Payment/Index - -
+2023-11-04 13:14:51.384 +00:00 [DBG] The request path /Payment/Index does not match a supported file type
+2023-11-04 13:14:51.389 +00:00 [DBG] 1 candidate(s) found for the request path '/Payment/Index'
+2023-11-04 13:14:51.389 +00:00 [DBG] Endpoint 'FinanceManagementSystem.Controllers.PaymentController.Index (FinanceManagementSystem)' with route pattern '{controller=Home}/{action=Index}/{id?}' is valid for the request path '/Payment/Index'
+2023-11-04 13:14:51.389 +00:00 [DBG] Request matched endpoint 'FinanceManagementSystem.Controllers.PaymentController.Index (FinanceManagementSystem)'
+2023-11-04 13:14:51.399 +00:00 [DBG] AuthenticationScheme: Identity.Application was successfully authenticated.
+2023-11-04 13:14:51.400 +00:00 [INF] Executing endpoint 'FinanceManagementSystem.Controllers.PaymentController.Index (FinanceManagementSystem)'
+2023-11-04 13:14:51.405 +00:00 [INF] Route matched with {action = "Index", controller = "Payment", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller FinanceManagementSystem.Controllers.PaymentController (FinanceManagementSystem).
+2023-11-04 13:14:51.406 +00:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-11-04 13:14:51.406 +00:00 [DBG] Execution plan of resource filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2023-11-04 13:14:51.406 +00:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648)","Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)"]
+2023-11-04 13:14:51.406 +00:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-11-04 13:14:51.406 +00:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter"]
+2023-11-04 13:14:51.406 +00:00 [DBG] Executing controller factory for controller FinanceManagementSystem.Controllers.PaymentController (FinanceManagementSystem)
+2023-11-04 13:14:51.407 +00:00 [DBG] Executed controller factory for controller FinanceManagementSystem.Controllers.PaymentController (FinanceManagementSystem)
+2023-11-04 13:14:51.411 +00:00 [DBG] View lookup cache miss for view 'Index' in controller 'Payment'.
+2023-11-04 13:14:51.413 +00:00 [INF] Executing ViewResult, running view Index.
+2023-11-04 13:14:51.413 +00:00 [DBG] The view path '/Views/Payment/Index.cshtml' was found in 2.1496ms.
+2023-11-04 13:14:51.423 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (action=[ProcessPayment],controller=[Payment])
+2023-11-04 13:14:51.423 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Payment/ProcessPayment and 
+2023-11-04 13:14:51.423 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Payment/ProcessPayment
+2023-11-04 13:14:51.425 +00:00 [DBG] An antiforgery cookie token was reused.
+2023-11-04 13:14:51.525 +00:00 [DBG] View lookup cache miss for view '_Layout' in controller 'Payment'.
+2023-11-04 13:14:51.530 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2023-11-04 13:14:51.530 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-04 13:14:51.530 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2023-11-04 13:14:51.530 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2023-11-04 13:14:51.530 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-04 13:14:51.530 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2023-11-04 13:14:51.531 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Help])
+2023-11-04 13:14:51.531 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Help and 
+2023-11-04 13:14:51.531 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Help
+2023-11-04 13:14:51.531 +00:00 [DBG] View lookup cache miss for view '_LoginPartial' in controller 'Payment'.
+2023-11-04 13:14:51.532 +00:00 [DBG] Found the endpoints ["/Account/Manage/Index","Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[Identity],page=[/Account/Manage/Index])
+2023-11-04 13:14:51.532 +00:00 [DBG] Successfully processed template Identity/Account/Manage for /Account/Manage/Index resulting in /Identity/Account/Manage and 
+2023-11-04 13:14:51.532 +00:00 [DBG] Link generation succeeded for endpoints ["/Account/Manage/Index","Route: {controller=Home}/{action=Index}/{id?}"] with result /Identity/Account/Manage
+2023-11-04 13:14:51.533 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Index],controller=[Home])
+2023-11-04 13:14:51.533 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in  and 
+2023-11-04 13:14:51.533 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /
+2023-11-04 13:14:51.533 +00:00 [DBG] Found the endpoints ["/Account/Logout","Route: {controller=Home}/{action=Index}/{id?}"] for address (returnUrl=[/],area=[Identity],page=[/Account/Logout])
+2023-11-04 13:14:51.533 +00:00 [DBG] Successfully processed template Identity/Account/Logout for /Account/Logout resulting in /Identity/Account/Logout and ?returnUrl=%2F
+2023-11-04 13:14:51.533 +00:00 [DBG] Link generation succeeded for endpoints ["/Account/Logout","Route: {controller=Home}/{action=Index}/{id?}"] with result /Identity/Account/Logout?returnUrl=%2F
+2023-11-04 13:14:51.534 +00:00 [DBG] An antiforgery cookie token was reused.
+2023-11-04 13:14:51.536 +00:00 [DBG] View lookup cache miss for view '_Notification' in controller 'Payment'.
+2023-11-04 13:14:51.537 +00:00 [DBG] The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider was not found.
+2023-11-04 13:14:51.537 +00:00 [DBG] Found the endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] for address (area=[],action=[Privacy],controller=[Home])
+2023-11-04 13:14:51.537 +00:00 [DBG] Successfully processed template {controller=Home}/{action=Index}/{id?} for Route: {controller=Home}/{action=Index}/{id?} resulting in /Home/Privacy and 
+2023-11-04 13:14:51.537 +00:00 [DBG] Link generation succeeded for endpoints ["Route: {controller=Home}/{action=Index}/{id?}"] with result /Home/Privacy
+2023-11-04 13:14:51.586 +00:00 [INF] Executed ViewResult - view Index executed in 175.4147ms.
+2023-11-04 13:14:51.587 +00:00 [INF] Executed action FinanceManagementSystem.Controllers.PaymentController.Index (FinanceManagementSystem) in 181.13ms
+2023-11-04 13:14:51.587 +00:00 [INF] Executed endpoint 'FinanceManagementSystem.Controllers.PaymentController.Index (FinanceManagementSystem)'
+2023-11-04 13:14:51.595 +00:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2023-11-04 13:14:51.598 +00:00 [DBG] Response markup was updated to include browser refresh script injection.
+2023-11-04 13:14:51.600 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/Payment/Index - - - 200 - text/html;+charset=utf-8 216.7690ms
+2023-11-04 13:14:51.624 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/lib/bootstrap/dist/css/bootstrap.css - -
+2023-11-04 13:14:51.645 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/_framework/aspnetcore-browser-refresh.js - -
+2023-11-04 13:14:51.648 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 2.4424ms
+2023-11-04 13:14:51.656 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/css/site.css?v=LeOs9SdOpjTPF7EZ_wgMkQPu6b5l0C8oBYMg7X96jX4 - -
+2023-11-04 13:14:51.673 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/FinanceManagementSystem.styles.css?v=5ma4o-__Tjbg7_-VXXkwp0aovfrTQ8XxOK4UW0M43sM - -
+2023-11-04 13:14:51.674 +00:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\css\site.css'
+2023-11-04 13:14:51.675 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/css/site.css?v=LeOs9SdOpjTPF7EZ_wgMkQPu6b5l0C8oBYMg7X96jX4 - - - 200 367 text/css 18.8802ms
+2023-11-04 13:14:51.676 +00:00 [INF] Sending file. Request path: '/FinanceManagementSystem.styles.css'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\obj\Debug\net7.0\scopedcss\bundle\FinanceManagementSystem.styles.css'
+2023-11-04 13:14:51.677 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/FinanceManagementSystem.styles.css?v=5ma4o-__Tjbg7_-VXXkwp0aovfrTQ8XxOK4UW0M43sM - - - 200 2789 text/css 8.9379ms
+2023-11-04 13:14:51.682 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7263/_vs/browserLink - -
+2023-11-04 13:14:51.729 +00:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\User\source\repos\FinanceManagementSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+2023-11-04 13:14:51.739 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/lib/bootstrap/dist/css/bootstrap.css - - - 200 312828 text/css 109.8214ms
+2023-11-04 13:14:52.015 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7263/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 333.1902ms
+2023-11-04 13:14:55.025 +00:00 [DBG] Connection id "0HMUT6VMK1JN4" received FIN.
+2023-11-04 13:14:55.026 +00:00 [DBG] Connection id "0HMUT6VMK1JN4" is closed. The last processed stream ID was 11.
+2023-11-04 13:14:55.026 +00:00 [DBG] Connection id "0HMUT6VMK1JN4" sending FIN because: "The client closed the connection."
+2023-11-04 13:14:55.026 +00:00 [DBG] The connection queue processing loop for 0HMUT6VMK1JN4 completed.
+2023-11-04 13:14:55.027 +00:00 [DBG] Connection id "0HMUT6VMK1JN4" stopped.
