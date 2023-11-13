@@ -5,8 +5,6 @@ using System;
 
 namespace FinanceManagementSystem.Controllers
 {
-    
-
     public class PaymentController : Controller
     {
         private readonly ApplicationDbContext _db;
@@ -48,7 +46,7 @@ namespace FinanceManagementSystem.Controllers
 
         public IActionResult Confirmation()
         {
-            // This is the confirmation page
+            // This is the confirmation page.
             return View();
         }
 
