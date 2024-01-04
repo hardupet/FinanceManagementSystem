@@ -338,6 +338,7 @@ namespace FinanceManagementSystem.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error occurred while creating an account.");
+                _logger.LogError(ex.InnerException.ToString());
                 //_logger.Log(ex);
                 return BadRequest();
             }
