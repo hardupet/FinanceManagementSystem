@@ -245,7 +245,7 @@ namespace FinanceManagementSystem.Controllers
         }
 
 
-     
+     // Method to create Account
         public async Task<IActionResult> CreateAccount()
         {
             var user = await _userManager.GetUserAsync(User);
